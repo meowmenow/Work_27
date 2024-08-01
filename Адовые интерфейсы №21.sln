@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Адовые интерфейсы №21", "Адовые интерфейсы №21\Адовые интерфейсы №21.csproj", "{D09F819F-1CB8-4071-A239-56CDC8B528B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D09F819F-1CB8-4071-A239-56CDC8B528B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09F819F-1CB8-4071-A239-56CDC8B528B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09F819F-1CB8-4071-A239-56CDC8B528B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09F819F-1CB8-4071-A239-56CDC8B528B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE17C8F8-9798-4C3C-A106-12F0DEE587C4}
+	EndGlobalSection
+EndGlobal
